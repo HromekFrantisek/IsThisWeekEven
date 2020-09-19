@@ -1,0 +1,14 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 80px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 800;
+}
+
+p {
+    font-size: 56px;
+}
